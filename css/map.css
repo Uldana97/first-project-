@@ -1,0 +1,45 @@
+#summary{
+    padding: 100px 0;
+    background: #75a0a3;
+    
+  }
+  
+  .summary__box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+   
+  
+  }
+  
+  .summary__box-1 h2{
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+    font-family: 'Roboto Slab', serif;
+    
+  }
+  
+  .summary__box-1 p{
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    
+  }
+  
+  .summary__box-2 img{
+    width: 555px;
+    height: 450px;
+  }
+  
+  .line{
+    background-color: #5aa4afd7;
+    height: 3px;
+    width: 100%;
+  }
+  
+  .linner-line{
+    height: 100%;
+    width: 85%;
+    background-color: #6e5938;
+  }
